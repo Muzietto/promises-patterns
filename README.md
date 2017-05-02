@@ -10,7 +10,7 @@ Main resolve/reject idiom:
 ALWAYS return a promise:
 - https://github.com/Muzietto/promises-patterns/blob/master/02_always_return_a_promise.js
 
-Done idiom:
+Done idiom is __not standard__:
 - https://www.promisejs.org/#done
 
 Then chaining pattern:
