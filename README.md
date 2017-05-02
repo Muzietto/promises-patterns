@@ -1,5 +1,6 @@
 # promises-patterns
-Samples of idioms and patterns involving promises
+Samples of idioms and patterns involving promises, plus a list of useful reference links.
+
 
 https://socialsweethearts.atlassian.net/browse/NAM-2510
 
