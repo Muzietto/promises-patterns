@@ -38,7 +38,7 @@ Reference for the patterns:
 
 Shortest promise libraries ever: (...but don't use them in production ;-)
 - https://github.com/douglascrockford/monad/blob/master/vow.js
-- https://github.com/Muzietto/japp/blob/master/js/promizzes/promizzes3.js
+- https://github.com/Muzietto/japp/blob/master/js/promizzes/promizzes4.js
 
 Polyfills:
 - https://www.promisejs.org/polyfills/promise-7.0.4.min.js
